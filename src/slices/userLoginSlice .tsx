@@ -50,7 +50,7 @@ export const loginUser = createAsyncThunk(
 );
 
 // 🔹 פעולה להתחברות עם Google
-export const loginWithGoogle = createAsyncThunk(
+/*export const loginWithGoogle = createAsyncThunk(
   "user/loginWithGoogle",
   async (googleCredential: string, { rejectWithValue }) => {
     try {
@@ -62,6 +62,7 @@ export const loginWithGoogle = createAsyncThunk(
     }
   }
 );
+*/
 
 // 🟢 טיפוס ה-State של המשתמש
 interface UserState {
