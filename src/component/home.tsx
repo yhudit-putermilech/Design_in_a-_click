@@ -56,7 +56,7 @@ const HomePage: React.FC = () => {
                 }
               }}
             >
-              <Typography variant="h5">רגעים משפחתיים🖼️</Typography>
+              <Typography variant="h5">🖼️רגעים משפחתיים🖼️</Typography>
             </Box>
           </motion.div>
         </Grid>
@@ -80,7 +80,7 @@ const HomePage: React.FC = () => {
                 }
               }}
             >
-              <Typography variant="h5">הרפתקאות טיולים🏞️</Typography>
+              <Typography variant="h5">🏞️הרפתקאות טיולים🏞️</Typography>
             </Box>
           </motion.div>
         </Grid>
@@ -104,7 +104,7 @@ const HomePage: React.FC = () => {
                 }
               }}
             >
-              <Typography variant="h5">אירועים מיוחדים👰</Typography>
+              <Typography variant="h5">👰אירועים מיוחדים👰</Typography>
             </Box>
           </motion.div>
         </Grid>
