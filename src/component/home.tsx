@@ -121,7 +121,7 @@ const HomePage: React.FC = () => {
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1.5 }}>
         <Box sx={{ textAlign: "center", marginTop: "70px" }}>
           <Typography variant="h4" sx={{ fontWeight: "bold", color: "#fff" }}>
-            מה אומרים עלינו 😀
+          😀 מה אומרים עלינו 😀
           </Typography>
           <Box sx={{ marginTop: "30px", display: "flex", justifyContent: "center", gap: 3 }}>
             <Box sx={{ width: 300, padding: 2, border: "1px solid #ddd", borderRadius: "10px", backgroundColor: "#fff", boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)" }}>
