@@ -126,15 +126,15 @@ const HomePage: React.FC = () => {
           <Box sx={{ marginTop: "30px", display: "flex", justifyContent: "center", gap: 3 }}>
             <Box sx={{ width: 300, padding: 2, border: "1px solid #ddd", borderRadius: "10px", backgroundColor: "#fff", boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)" }}>
               <Typography sx={{ fontStyle: "italic" }}>
-                "This app made organizing and sharing my family photos so easy and fun!"
+                "האפליקציה הזו הפכה את הארגון והשיתוף של תמונות המשפחה שלי לכל כך קלים ומהנים!"
               </Typography>
-              <Typography sx={{ fontWeight: "bold", marginTop: "10px" }}>John Doe</Typography>
+              <Typography sx={{ fontWeight: "bold", marginTop: "10px" }}>תמר פוטרמילך</Typography>
             </Box>
             <Box sx={{ width: 300, padding: 2, border: "1px solid #ddd", borderRadius: "10px", backgroundColor: "#fff", boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)" }}>
               <Typography sx={{ fontStyle: "italic" }}>
-                "The best tool for creating memories and sharing with friends."
+                "אתר מטורף שווה מאוד להרשם"
               </Typography>
-              <Typography sx={{ fontWeight: "bold", marginTop: "10px" }}>Jane Smith</Typography>
+              <Typography sx={{ fontWeight: "bold", marginTop: "10px" }}>יאיר כהן</Typography>
             </Box>
           </Box>
         </Box>
