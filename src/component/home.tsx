@@ -121,12 +121,12 @@ const HomePage: React.FC = () => {
       <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1.5 }}>
         <Box sx={{ textAlign: "center", marginTop: "70px" }}>
           <Typography variant="h4" sx={{ fontWeight: "bold", color: "#fff" }}>
-            What Our Users Say
+            מה אומרים עלינו 😀
           </Typography>
           <Box sx={{ marginTop: "30px", display: "flex", justifyContent: "center", gap: 3 }}>
             <Box sx={{ width: 300, padding: 2, border: "1px solid #ddd", borderRadius: "10px", backgroundColor: "#fff", boxShadow: "0 4px 8px rgba(0, 0, 0, 0.1)" }}>
               <Typography sx={{ fontStyle: "italic" }}>
-                "האפליקציה הזו הפכה את הארגון והשיתוף של תמונות המשפחה שלי לכל כך קלים ומהנים!"
+                "!!האפליקציה הזו הפכה את הארגון והשיתוף של תמונות המשפחה שלי לכל כך קלים ומהנים"
               </Typography>
               <Typography sx={{ fontWeight: "bold", marginTop: "10px" }}>תמר פוטרמילך</Typography>
             </Box>
