@@ -4,7 +4,7 @@ import axios from "axios";
 
 // URL בסיסי ל-API
 //const API_URL = "http://localhost:7213//api/auth";
-const API_URL = "https://fullstack-server-5s8a.onrender.com//api/auth";
+const API_URL = "https://fullstack-server-5s8a.onrender.com/api/auth";
 
 // 🔹 פעולה להרשמה
 export const registerUser = createAsyncThunk(

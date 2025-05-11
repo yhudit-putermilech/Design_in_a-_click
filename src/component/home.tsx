@@ -39,7 +39,7 @@ const HomePage: React.FC = () => {
           <motion.div initial={{ opacity: 0 }} animate={{ opacity: 1 }} transition={{ duration: 1.5 }}>
             <Box
               sx={{
-                backgroundImage: 'url("/img/album1.jpg")',
+               // backgroundImage: 'url("/img/album1.jpg")',
                 backgroundSize: 'cover',
                 height: "300px",
                 borderRadius: "15px",
